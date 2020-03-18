@@ -2,7 +2,7 @@ module.exports = {
   entry: 'example/index.js',
   output: {
     dir: 'example/dist',
-    publicUrl: '/'
+    publicUrl: '/vue-ala-icons/example/dist/'
   },
   chainWebpack(config) {
     config.module
