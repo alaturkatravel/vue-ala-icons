@@ -1,5 +1,5 @@
 const path = require('path')
-const feather = require('feather-icons')
+const feather = require('ala-icons')
 const pascalCase = require('pascal-case')
 const fs = require('fs-extra')
 

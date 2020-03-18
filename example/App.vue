@@ -3,11 +3,11 @@
     <github
       v-tippy="{title: 'Star me on GitHub', trigger: 'mouseenter '}"
       fill="white"
-      slug="egoist/vue-feather-icons">
+      slug="egoist/vue-ala-icons">
     </github>
     <header class="header">
       <div class="container">
-        <h1 class="hero-heading">vue-feather-icons</h1>
+        <h1 class="hero-heading">vue-ala-icons</h1>
         <h2 class="desc">Simply beautiful open source icons as Vue functional components.</h2>
       </div>
     </header>
